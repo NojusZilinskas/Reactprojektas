@@ -1,0 +1,80 @@
+html {
+  margin: 0;
+  padding: 0;
+  background-image: url(https://images.pexels.com/photos/1261728/pexels-photo-1261728.jpeg?cs=srgb&dl=pexels-stywo-1261728.jpg&fm=jpg);
+}
+
+.container {
+  background-color: rgb(167, 175, 175);
+  border-radius: 7%;
+  border-style: solid;
+  border-width: 5px;
+  margin-top: 2%;
+  margin-left: 1%;
+  margin-right: 1%;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 7%;
+  padding-bottom: 5%;
+}
+
+.rus {
+  font-weight: 900;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  border-radius: 7%;
+  border-color: black;
+  background-color: rgb(167, 175, 175);
+}
+
+
+.rin {
+  height: 50px;
+  width: 150px;
+  font-weight: 900;
+  border-radius: 10%;
+  margin-left: 2%;
+  transition: 0.5s;
+  background-color: rgb(167, 175, 175)
+}
+
+.rin:hover {
+  border-radius: 50%;
+  background-color: chartreuse;
+  transition: 0.5s;
+}
+
+p {
+padding-left: 4%;
+}
+
+h3 {
+  padding-left: 4%;
+}
+
+.forma {
+  text-align: center;
+  border-radius: 7%;
+  background-color: rgb(7, 88, 88);
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+input {
+  background-color: aquamarine;
+  border-width: 7px;
+}
+
+.rasyt {
+  max-width: fit-content;
+  max-height: 200px;
+}
